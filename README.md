@@ -8,7 +8,7 @@ The only difference is that `styles-media-queries.css` has only one grouped medi
 
 Of course the size of the stylesheets files differ: 9.6M vs 12.5MB. `styles-media-queries.css` is 30% larger than `styles-combined.css`.
 
-However, as you can see from the Developer Tools example, the parsing time of style sheets: 265.5ms vs 416.9ms. It does take *57%* more time to parse the unoptimized version of the stylesheets file.
+However, as you can see from the Developer Tools example, the parsing time of style sheets: 265.5ms vs 416.9ms. It does take **57%** more time to parse the unoptimized version of the stylesheets file.
 
 ![Combined media query CSS file](benchmark-combined.png "Combined media query CSS file")
 
